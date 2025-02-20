@@ -1,4 +1,4 @@
-import BBWave from './src/BBWave.js';
+import BBWave from '../src/BBWave.js';
 // 原始代码逻辑
 async function main() {
   // const audioContext = new (window.AudioContext || window.webkitAudioContext)();
