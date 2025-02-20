@@ -1,0 +1,22 @@
+{
+  "name": "bb-wave",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "dist/BBWave.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "files": [
+    "dist/",
+    "Readme.md",
+    "package.json",
+    "pnpm-lock.yaml"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^4.34.8"
+  }
+}

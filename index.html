@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>audio wave</title>
+  <style>
+    body {
+      background-color: #c0c0c0;
+    }
+    #bbwave {
+      width: 500px;
+      height: 300px;
+    }
+  </style>
+</head>
+<body>
+  <script src="https://unpkg.com/siriwave/dist/siriwave.umd.min.js"></script>
+
+  <button id="startButton">start</button>
+  <button id="stopButton">stop</button>
+
+  <hr />
+  <div id="bbwave"></div>
+  <script type="module" src="./main.js"></script>
+  <script type="module" src="./main-siri.js"></script>
+</body>
+</html>
