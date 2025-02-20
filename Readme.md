@@ -1,7 +1,11 @@
 # 声音波纹
 
+![screenshot](./ss.png)
+
 - 基于 [siriwave](https://github.com/kopiro/siriwave) 的声音波纹效果。
 - 简化了声音录制部分。
+
+
 
 ## 使用
 
